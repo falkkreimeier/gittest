@@ -1,6 +1,6 @@
 # Inhalt 
 
--Kapitel 1
+## -Kapitel 1
     - Ninja Cat lernt den Roundhousekick
 
 -Kapitel 2

@@ -9,5 +9,8 @@
 ## -Kapitel 3 
     - Ninja Cat roundhousekicked Trump aus dem weißen Haus
     
--Kapitel 4
+## -Kapitel 4
     - Die Taliban gehen Ninja Cat mächtig auf den Sack
+
+## -Kapitel 5 
+    - Ninja Cat roundhouskicked die Taliban aus Afghanistan

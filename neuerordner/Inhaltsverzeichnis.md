@@ -14,3 +14,6 @@
 
 ## -Kapitel 5 
     - Ninja Cat roundhouskicked die Taliban aus Afghanistan
+
+## -Kapitel 6 
+    - Ninja Cat eskalkiert.
